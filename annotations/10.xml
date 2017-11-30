@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images Dataset</folder>
+	<filename>10.jpeg</filename>
+	<path>C:\Users\bansa\Desktop\Diksha\Images Dataset\10.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>441</width>
+		<height>568</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right door</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>2</ymin>
+			<xmax>362</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

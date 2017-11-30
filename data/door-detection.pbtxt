@@ -1,0 +1,12 @@
+item {
+id: 1
+name : 'front_door'
+}
+item {
+id: 2
+name : 'right_door'
+}
+item {
+id: 3
+name : 'left_door'
+}
